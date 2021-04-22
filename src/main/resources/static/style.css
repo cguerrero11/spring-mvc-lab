@@ -1,0 +1,38 @@
+body {
+    background-color: lightcyan;
+    text-align: center;
+    font-family: Monospaced, sans-serif;
+}
+
+div {
+    background-color: white;
+    opacity: 60%;
+    color: darkblue;
+    font-size: 140%;
+    font-family: Monospaced, sans-serif;
+    -webkit-text-stroke: 1px firebrick;
+    margin-bottom: 50px;
+    padding: 30px;
+}
+
+img {
+    width: 240px;
+    height: auto;
+}
+
+h1 {
+    color: firebrick;
+    background-color: burlywood;
+    border-radius: 20px;
+}
+
+a:visited {
+    color: white;
+}
+
+a {
+    color: beige;
+    font-family: Castellar, serif;
+    font-size: 150%;
+    background-color: darkblue;
+}

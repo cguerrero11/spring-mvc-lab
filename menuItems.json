@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Ori and the Blind Forest",
+    "description": "An amazing game about a forest creature healing a fallen world.",
+    "imageFile": "img/ori.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Minecraft",
+    "description": "A game where you can build anything you want, and explore an endless amount of randomly generated worlds.",
+    "imageFile": "img/minecraft.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Animal Crossing: New Horizons",
+    "description": "A game where you have an island to yourself and have animal villagers live on it too.",
+    "imageFile": "img/animalcrossing.png"
+  },
+  {
+    "id": 4,
+    "name": "Genshin Impact",
+    "description": "This game is about a traveler who gets stranded in an unknown world where people use visions to manipulate the elements.",
+    "imageFile": "img/genshin.png"
+  },
+  {
+    "id": 5,
+    "name": "Destiny 2",
+    "description": "A game in where you play as a Guardian an a post-apocalyptic world, shooting aliens.",
+    "imageFile": "img/destiny.jpg"
+  }
+]
